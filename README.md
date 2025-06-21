@@ -11,25 +11,15 @@ Copilot
 Leonardo.ai
 Gamma.app
 Vidnoz.Ai
+Heygen
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo criativo deste trabalho foi totalmente colaborativo entre diferentes inteligências artificiais. Usei o Perplexity para gerar as receitas e textos originais, garantindo criatividade e coesão. As imagens hiper-realistas dos pratos foram criadas com Leonardo IA. Para a experiência multimídia, produzi o vídeo final no HeyGen, transformando o roteiro em conteúdo audiovisual com avatares virtuais. Os áudios das receitas foram gerados com Vidnoz AI, utilizando vozes realistas e personalizadas. Em cada receita do e-book, inseri um QR code que permite aos leitores ouvirem o áudio correspondente de forma rápida e interativa. Todo o projeto foi pensado para unir tecnologia, criatividade e acessibilidade em uma experiência gastronômica inovadora.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[📘 Clique aqui e acesse o e-book](https://drive.google.com/file/d/16ImzUh8JK5Bvp6XDpe69tIt80O7Y2wTL/view?usp=drive_link)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Foi interessante e desafiardor, gostei bastante do desafio.
